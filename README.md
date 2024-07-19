@@ -55,42 +55,7 @@ Please read through our [contribution guidelines][contributing] before starting 
 
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle nudge in the right direction, please join our [Discord server][discord].
 
-[website]: https://discord.js.org
-[website-source]: https://github.com/discordjs/discord.js/tree/main/apps/website
-[documentation]: https://discord.js.org/docs
-[guide]: https://discordjs.guide/
-[guide-source]: https://github.com/discordjs/guide
-[guide-update]: https://discordjs.guide/additional-info/changes-in-v14.html
-[discord]: https://discord.gg/djs
-[discord-api]: https://discord.gg/discord-api
-[source]: https://github.com/discordjs/discord.js/tree/main/packages/discord.js
-[npm]: https://www.npmjs.com/package/discord.js
-[related-libs]: https://discord.com/developers/docs/topics/community-resources#libraries
-[rpc]: https://www.npmjs.com/package/discord-rpc
-[rpc-source]: https://github.com/discordjs/RPC
-[contributing]: https://github.com/discordjs/discord.js/blob/main/.github/CONTRIBUTING.md
-[github-releases]: https://github.com/discordjs/discord.js/releases
-[brokers-source]: https://github.com/discordjs/discord.js/tree/main/packages/brokers
-[builders-source]: https://github.com/discordjs/discord.js/tree/main/packages/builders
-[collection-source]: https://github.com/discordjs/discord.js/tree/main/packages/collection
-[core-source]: https://github.com/discordjs/discord.js/tree/main/packages/core
-[formatters-source]: https://github.com/discordjs/discord.js/tree/main/packages/formatters
-[proxy-source]: https://github.com/discordjs/discord.js/tree/main/packages/proxy
-[rest-source]: https://github.com/discordjs/discord.js/tree/main/packages/rest
-[voice-source]: https://github.com/discordjs/discord.js/tree/main/packages/voice
-[util-source]: https://github.com/discordjs/discord.js/tree/main/packages/util
-[ws-source]: https://github.com/discordjs/discord.js/tree/main/packages/ws
-[good-first-issue]: https://github.com/discordjs/discord.js/contribute
 
-
-
-
-
-
-
-
-
-# aency.app
 ![since](https://img.shields.io/badge/since-2022-green?labelColor=gray&style=plastic&logoWidth=0) ![projects](https://img.shields.io/badge/projects-5-red?labelColor=gray&style=plastic&logoWidth=0)
 
 ![size](https://img.shields.io/github/repo-size/aencyco/aencyapp?size&?style=plastic) ![languages](https://img.shields.io/github/languages/count/aencyco/aencyapp?style=plastic) ![forks](https://img.shields.io/github/forks/aencyco/aencyapp?style=plastic)
