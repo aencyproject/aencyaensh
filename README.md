@@ -6,9 +6,9 @@
 	<br />
 	<p>
 		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Versão-5-red?labelColor=gray&style=plastic&logoWidth=0" alt="Versão"/></a>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Desde-2022-green?labelColor=gray&style=plastic&logoWidth=0" alt="Desde" /></a>
-		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="npm downloads" /></a>
-		<a href="https://github.com/discordjs/discord.js/actions"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" /></a>
+		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Desde-2022-orange?labelColor=gray&style=plastic&logoWidth=0" alt="Desde" /></a>
+		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Projects-9-florest?labelColor=gray&style=plastic&logoWidth=0" alt="Projects"/></a>
+		<a href="https://github.com/discordjs/discord.js/actions"><img src="https://img.shields.io/badge/Contributors-3-aqua?labelColor=gray&style=plastic&logoWidth=0" alt="Contributors" /></a>
 		<a href="https://codecov.io/gh/discordjs/discord.js" ><img src="https://codecov.io/gh/discordjs/discord.js/branch/main/graph/badge.svg?precision=2" alt="Code coverage" /></a>
 	</p>
 </div>
@@ -18,21 +18,17 @@
 > Esse repositório contém o código fonte do aency.app. O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Windows e Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve.
 
 ## Utilidades
-
-- `discord.js` ([source][source]) - A powerful Node.js module for interacting with the Discord API
-- `@discordjs/brokers` ([source][brokers-source]) - A collection of brokers for use with discord.js
-- `@discordjs/builders` ([source][builders-source]) - A utility package for easily building Discord API payloads
-- `@discordjs/collection` ([source][collection-source]) - A powerful utility data structure
-- `@discordjs/core` ([source][core-source]) - A thinly abstracted wrapper around the core components of the Discord API
-- `@discordjs/formatters` ([source][formatters-source]) - A collection of functions for formatting strings
-- `@discordjs/proxy` ([source][proxy-source]) - A wrapper around `@discordjs/rest` for running an HTTP proxy
-- `@discordjs/rest` ([source][rest-source]) - A module for interacting with the Discord REST API
-- `@discordjs/voice` ([source][voice-source]) - A module for interacting with the Discord Voice API
-- `@discordjs/util` ([source][util-source]) - A collection of utility functions
-- `@discordjs/ws` ([source][ws-source]) - A wrapper around Discord's gateway
+- `@aency.app` ([source][source]) - A powerful Node.js module for interacting with the Discord API
+- `@aency.xyz` ([source][brokers-source]) - A collection of brokers for use with discord.js
+- `@aency.net` ([source][builders-source]) - A utility package for easily building Discord API payloads
+- `@aency.dot` ([source][collection-source]) - A powerful utility data structure
+- `@aency.neo` ([source][core-source]) - A thinly abstracted wrapper around the core components of the Discord API
+- `@aency.any` ([source][rest-source]) - A module for interacting with the Discord REST API
+- `@aency.src` ([source][voice-source]) - Biblioteca utilizada para hospedar bibliotecas.
+- `@aency.cfg` ([source][util-source]) - Biblioteca utilizada para arquivos Asson.
+- `@aency.mfl` ([source][ws-source]) - Biblioteca utilizada para carregamento de arquivos mais avançados.
 
 ## Links
-
 - [Website][website] ([source][website-source])
 - [Documentation][documentation]
 - [Guide][guide] ([source][guide-source])
@@ -43,12 +39,8 @@
 - [npm][npm]
 - [Related libraries][related-libs]
 
-### Extensions
 
-- [RPC][rpc] ([source][rpc-source])
-
-
-![since](https://img.shields.io/badge/since-2022-green?labelColor=gray&style=plastic&logoWidth=0) ![projects](https://img.shields.io/badge/projects-5-red?labelColor=gray&style=plastic&logoWidth=0)
+![projects](https://img.shields.io/badge/projects-5-red?labelColor=gray&style=plastic&logoWidth=0)
 
 ![size](https://img.shields.io/github/repo-size/aencyco/aencyapp?size&?style=plastic) ![languages](https://img.shields.io/github/languages/count/aencyco/aencyapp?style=plastic) ![forks](https://img.shields.io/github/forks/aencyco/aencyapp?style=plastic)
 
