@@ -17,11 +17,13 @@
 
 > Esse repositório contém o código fonte do aency.app. O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Windows e Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve.
 
-## Utilidades
-- `@aency.app` ([source][source]) - App principal, leia mais no "Sobre".
-- `@aency.xyz` ([source][brokers-source]) - Pacote e coleção de utilidades adicionais externas da comunidade.
-- `@aency.net` ([source][builders-source]) - Sistema de hospedagem de "Mini Sites CLI" no app.
-- `@aency.any` ([source][rest-source]) - 
+## Pacotes
+> [!TIP]
+> Os pacotes, sistemas e bibliotecas são utilidades para o usuário. Elas servem para expandir a customização e aumentar a produtividade do aency.app.
+- `@aency.app` - App principal, leia mais no "Sobre".
+- `@aency.xyz` - Pacote e coleção de utilidades adicionais externas da comunidade.
+- `@aency.net` - Sistema de hospedagem de "Mini Sites CLI" no app.
+- `@aency.any` - Pacote inicial utilizado para carregamento do AnyScript.
 - `@aency.src` - Um pacote utilizado para hospedar bibliotecas e contribuir no app.
 - `@aency.cfg` - Um pacote utilizado para armazenamento e carregamento de arquivos Asson.
 
@@ -36,49 +38,45 @@
 - [npm][npm]
 - [Related libraries][related-libs]
 
-
-![projects](https://img.shields.io/badge/projects-5-red?labelColor=gray&style=plastic&logoWidth=0)
-
-![size](https://img.shields.io/github/repo-size/aencyco/aencyapp?size&?style=plastic) ![languages](https://img.shields.io/github/languages/count/aencyco/aencyapp?style=plastic) ![forks](https://img.shields.io/github/forks/aencyco/aencyapp?style=plastic)
-
-`aency.app 1.0`
+## ✅ » Checklist
+> [!NOTE]
+> Essa checklist pode ser alterada sem aviso prévio com mudança de planos. Atualmente, a checklist está falando a versão `1.0 STABLE`.
+- [x] Base Inicial
 - [x] Github
-- [x] Interface CLI
-- [ ] Utilidades Iniciais
+- [x] CLI Implementada
 - [ ] ?
 - [ ] ?
 
-## 💻 » Instalação
-
-Antes de começar a instalação do **aency.app**, verifique se seu dispositivo atende aos seguintes requisitos:
+## 💻 » Requisitos
+> [!WARNING]
+> Antes de começar a instalação do **aency.app**, verifique se seu dispositivo atende aos seguintes requisitos.
 
 - Você instalou a versão mais recente do `Python`
 - Você tem uma máquina `Windows ou Linux`. Atualmente, ainda estamos portando o app pra Linux.
 - Saber como mexer em um Terminal sem GUI.
 - Ler a nossa documentação.
 
-Para instalar o **aency.app**, siga estas etapas:
+## 📥 » Instalação
 
-Linux
-
+> Linux
 ```
 Baixe nosso app nas releases e execute-o.
 ```
 
-Windows:
-
+> Windows
 ```
 Baixe nosso app nas releases e execute-o.
 ```
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 » Contribuindo
+> [!TIP]
+> Este é um jeito resumido de como você pode contribuir. Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-Para contribuir com o desenvolvimento do aency.app, siga estas etapas:
+> [!IMPORTANT]
+> Para contribuir com o desenvolvimento do aency.app, siga as etapas a seguir corretamente.
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
-
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
