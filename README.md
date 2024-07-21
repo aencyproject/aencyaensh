@@ -18,15 +18,12 @@
 > Esse repositório contém o código fonte do aency.app. O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Windows e Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve.
 
 ## Utilidades
-- `@aency.app` ([source][source]) - A powerful Node.js module for interacting with the Discord API
-- `@aency.xyz` ([source][brokers-source]) - A collection of brokers for use with discord.js
-- `@aency.net` ([source][builders-source]) - A utility package for easily building Discord API payloads
-- `@aency.dot` ([source][collection-source]) - A powerful utility data structure
-- `@aency.neo` ([source][core-source]) - A thinly abstracted wrapper around the core components of the Discord API
-- `@aency.any` ([source][rest-source]) - A module for interacting with the Discord REST API
-- `@aency.src` ([source][voice-source]) - Biblioteca utilizada para hospedar bibliotecas.
-- `@aency.cfg` ([source][util-source]) - Biblioteca utilizada para arquivos Asson.
-- `@aency.mfl` ([source][ws-source]) - Biblioteca utilizada para carregamento de arquivos mais avançados.
+- `@aency.app` ([source][source]) - App principal, leia mais no "Sobre".
+- `@aency.xyz` ([source][brokers-source]) - Pacote e coleção de utilidades adicionais externas da comunidade.
+- `@aency.net` ([source][builders-source]) - Sistema de hospedagem de "Mini Sites CLI" no app.
+- `@aency.any` ([source][rest-source]) - 
+- `@aency.src` - Um pacote utilizado para hospedar bibliotecas e contribuir no app.
+- `@aency.cfg` - Um pacote utilizado para armazenamento e carregamento de arquivos Asson.
 
 ## Links
 - [Website][website] ([source][website-source])
