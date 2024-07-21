@@ -45,23 +45,21 @@
 - [ ] ?
 - [ ] ?
 
-## 💻 » Requisitos
+## 📥 » Instalação
 > [!WARNING]
-> Antes de começar a instalação do **aency.app**, verifique se seu dispositivo atende aos seguintes requisitos.
+> Antes de começar a instalação do aency.app, verifique se seu dispositivo atende aos seguintes requisitos.
 
 - Você instalou a versão mais recente do `Python`
 - Você tem uma máquina `Windows ou Linux`. Atualmente, ainda estamos portando o app pra Linux.
 - Saber como mexer em um Terminal sem GUI.
 - Ler a nossa documentação.
 
-## 📥 » Instalação
-
-> Linux
+> **Linux**
 ```
 Baixe nosso app nas releases e execute-o.
 ```
 
-> Windows
+> **Windows**
 ```
 Baixe nosso app nas releases e execute-o.
 ```
