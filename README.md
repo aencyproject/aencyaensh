@@ -24,7 +24,7 @@
 
 ## 🔮 » Sobre
 > [!NOTE]
-> Esse repositório contém o código fonte do aency.app. O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Windows e Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve.
+> Esse repositório contém o código fonte do aency.app, de codinome "Light". O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Windows e Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve.
 
 ## 📦 » Pacotes
 > [!TIP]
