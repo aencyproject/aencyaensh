@@ -40,7 +40,7 @@
 > [!NOTE]
 > Essa checklist pode ser alterada sem aviso prévio com mudança de planos. Atualmente, a checklist está falando a versão `1.0 STABLE`.
 - [x] Base Inicial
-- [ ] Github
+- [x] Github
 - [ ] CLI Implementada
 - [ ] ?
 - [ ] ?
@@ -56,12 +56,12 @@
 
 > **Linux**
 ```
-Baixe nosso app nas releases e execute-o.
+Baixe nossa source pelo botão de download e use o app.
 ```
 
 > **Windows**
 ```
-Baixe nosso app nas releases e execute-o.
+Atualmente não foi concluído.
 ```
 
 ## 📫 » Contribuindo
