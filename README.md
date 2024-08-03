@@ -95,7 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
-- [Entertainment](#entertainment)
+- [Entertainment](#pacotes)
   - [Music](#music)
   - [Social Media](#social-media)
   - [Video](#video)
