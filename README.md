@@ -80,3 +80,84 @@ Atualmente não foi concluído.
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
 ```
+
+<p align="center">
+	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
+</p>
+
+---
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of command line apps.
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
+## Table of Contents
+
+- [Entertainment](#entertainment)
+  - [Music](#music)
+  - [Social Media](#social-media)
+  - [Video](#video)
+  - [Movies](#movies)
+  - [Games](#games)
+  - [Books](#books)
+- [Development](#development)
+  - [Text Editors](#text-editors)
+  - [Frontend Development](#frontend-development)
+  - [Mobile Development](#mobile-development)
+  - [Database](#database)
+  - [Devops](#devops)
+  - [Docker](#docker)
+  - [Release](#release)
+  - [Npm](#npm)
+  - [Boilerplate](#boilerplate)
+  - [HTTP Server](#http-server)
+  - [HTTP Client](#http-client)
+- [Productivity](#productivity)
+  - [Time Tracking](#time-tracking)
+  - [Note Taking and Lists](#note-taking-and-lists)
+  - [Finance](#finance)
+  - [Presentations](#presentations)
+  - [Calendars](#calendars)
+- [Utilities](#utilities)
+  - [macOS](#macos)
+  - [Terminal Sharing Utilities](#terminal-sharing-utilities)
+  - [Network Utilities](#network-utilities)
+  - [Theming and Customization](#theming-and-customization)
+  - [Shell Utilities](#shell-utilities)
+  - [System Interaction Utilities](#system-interaction-utilities)
+  - [Markdown](#markdown)
+  - [Security](#security)
+  - [Math](#math)
+  - [Weather](#weather)
+  - [Browser Replacement](#browser-replacement)
+  - [Internet Speedtest](#internet-speedtest)
+- [Command Line Learning](#command-line-learning)
+- [Data Manipulation](#data-manipulation)
+  - [Processors](#processors)
+  - [JSON](#json)
+  - [YAML](#yaml)
+  - [Columns](#columns)
+  - [Text](#text)
+- [Files and Directories](#files-and-directories)
+  - [File Managers](#file-managers)
+  - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
+  - [Files](#files)
+  - [File Sync/Sharing](#file-syncsharing)
+  - [Directory Listing](#directory-listing)
+  - [Directory Navigation](#directory-navigation)
+  - [Search](#search)
+- [Version Control](#version-control)
+  - [Git](#git)
+  - [GitHub](#github)
+  - [Emoji](#emoji)
+- [Images](#images)
+  - [Gif Creation](#gif-creation)
+  - [Image Conversion](#image-conversion)
+- [Screensavers](#screensavers)
+- [Graphics](#graphics)
+- [Just for Fun](#just-for-fun)
+  - [Emoji](#emoji-1)
+- [Other Awesome Lists](#other-awesome-lists)
+- [License](#license)
