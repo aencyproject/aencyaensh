@@ -22,11 +22,11 @@
 	</p>
 </div>
 
-## 🔮 » Sobre
+## Sobre
 > [!NOTE]
 > Esse repositório contém o código fonte do aency.app. O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve.
 
-## 📦 » Pacotes
+## Pacotes
 > [!TIP]
 > Os pacotes, sistemas, extenções e bibliotecas são utilidades para o usuário. Elas servem para expandir a customização e aumentar a produtividade do aency.app.
 > [!WARNING]
@@ -38,7 +38,7 @@
 - `@aency.src` - Um pacote utilizado para hospedar bibliotecas e contribuir no app.
 - `@aency.cfg` - Um pacote utilizado para armazenamento e carregamento de arquivos Asson.
 
-## ✅ » TODO
+## TODO
 - [ ] Completar a 1.0
 - [ ] Integração com IA
 - [ ] Criador Extenções de Extenções da Comunidade
@@ -47,7 +47,7 @@
 - [x] Escape Mode
 - [x] Github
 
-## 📥 » Instalação
+## Instalação
 > [!WARNING]
 > Antes de começar a instalação do aency.app, verifique se seu dispositivo atende aos seguintes requisitos.
 
@@ -66,7 +66,7 @@ Baixe nossa source pelo botão de download e use o app.
 Atualmente não foi concluído.
 ```
 
-## 📫 » Contribuindo
+## Contribuindo
 > [!TIP]
 > Este é um jeito resumido de como você pode contribuir. Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
