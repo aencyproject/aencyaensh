@@ -38,14 +38,14 @@
 - `@aency.src` - Um pacote utilizado para hospedar bibliotecas e contribuir no app.
 - `@aency.cfg` - Um pacote utilizado para armazenamento e carregamento de arquivos Asson.
 
-## ✅ » Checklist
-> [!NOTE]
-> Essa checklist pode ser alterada sem aviso prévio com mudança de planos. Atualmente, a checklist está falando a versão `1.0 STABLE`.
-- [x] Base Inicial
+## ✅ » TODO
+- [ ] Completar a 1.0
+- [ ] Integração com IA
+- [ ] Criador Extenções de Extenções da Comunidade
+- [ ] Package Manager
+- [ ] BASH e ZSH Mode
+- [x] Escape Mode
 - [x] Github
-- [ ] CLI Implementada
-- [ ] ?
-- [ ] ?
 
 ## 📥 » Instalação
 > [!WARNING]
