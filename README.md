@@ -30,54 +30,14 @@
 - Básico
   - [Sobre][#sobre]
 - Instalação
-  - [Time Tracking](#time-tracking)
-  - [Note Taking and Lists](#note-taking-and-lists)
-- [Utilities](#utilities)
-  - [macOS](#macos)
-  - [Terminal Sharing Utilities](#terminal-sharing-utilities)
-  - [Network Utilities](#network-utilities)
-  - [Theming and Customization](#theming-and-customization)
-  - [Shell Utilities](#shell-utilities)
-  - [System Interaction Utilities](#system-interaction-utilities)
-  - [Markdown](#markdown)
-  - [Security](#security)
-  - [Math](#math)
-  - [Weather](#weather)
-  - [Browser Replacement](#browser-replacement)
-  - [Internet Speedtest](#internet-speedtest)
-- [Command Line Learning](#command-line-learning)
-- [Data Manipulation](#data-manipulation)
-  - [Processors](#processors)
-  - [JSON](#json)
-  - [YAML](#yaml)
-  - [Columns](#columns)
-  - [Text](#text)
-- [Files and Directories](#files-and-directories)
-  - [File Managers](#file-managers)
-  - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
-  - [Files](#files)
-  - [File Sync/Sharing](#file-syncsharing)
-  - [Directory Listing](#directory-listing)
-  - [Directory Navigation](#directory-navigation)
-  - [Search](#search)
-- [Version Control](#version-control)
-  - [Git](#git)
-  - [GitHub](#github)
-  - [Emoji](#emoji)
-- [Images](#images)
-  - [Gif Creation](#gif-creation)
-  - [Image Conversion](#image-conversion)
-- [Screensavers](#screensavers)
-- [Graphics](#graphics)
-- [Just for Fun](#just-for-fun)
-  - [Emoji](#emoji-1)
-- [Other Awesome Lists](#other-awesome-lists)
-- [License](#license)
+  - [Instalação](#instalação)
+  - [Requisitos](#requisitos)
 
 ## Instalação
 > [!WARNING]
 > Antes de começar a instalação do aency.app, verifique se seu dispositivo atende aos seguintes requisitos.
 
+### Requisitos
 - Você instalou a versão mais recente do `Python`
 - Você tem uma máquina `Windows ou Linux`. Atualmente, ainda estamos portando o app pra Linux.
 - Saber como mexer em um Terminal sem GUI.
