@@ -28,10 +28,15 @@
 
 ## Tabela de Conteúdos
 - Básico
-  - [Sobre][#sobre]
+  - [Sobre](#sobre)
+  - [TODO](#todo)
 - Instalação
   - [Instalação](#instalação)
   - [Requisitos](#requisitos)
+- Shanny (Terminal)
+  - [Sobre](#sobre%24o%24shanny)
+  - [Atalhos](#atalhos%24do%24shanny)
+- [Contribuição](#contribuindo)
 
 ## Instalação
 > [!WARNING]
@@ -52,6 +57,9 @@ Baixe nossa source pelo botão de download e use o app.
 ```
 Atualmente não foi concluído.
 ```
+# Sobre o Shanny
+> [!TIP]
+> a
 
 ## Atalhos do Shanny
 
@@ -64,18 +72,6 @@ Atualmente não foi concluído.
 | <kbd>^</kbd>+<kbd>Shfit</kdb>+<kbd>L</kdb> | Limpa a tela do Shanny. |
 | <kbd>ALT</kbd>+<kbd>F4</kdb> | Finaliza o processo do Shanny. |
 
-## Pacotes
-> [!TIP]
-> Os pacotes, sistemas, extenções e bibliotecas são utilidades para o usuário. Elas servem para expandir a customização e aumentar a produtividade do aency.app.
-> [!WARNING]
-> Só lembrando que por enquanto nenhum está funcionando!
-- `@aency.app` - App principal, leia mais no "Sobre".
-- `@aency.xyz` - Pacote e coleção de utilidades adicionais externas da comunidade.
-- `@aency.net` - Sistema de hospedagem de "Mini Sites CLI" no app.
-- `@aency.any` - Pacote inicial utilizado para carregamento do AnyScript.
-- `@aency.src` - Um pacote utilizado para hospedar bibliotecas e contribuir no app.
-- `@aency.cfg` - Um pacote utilizado para armazenamento e carregamento de arquivos Asson.
-
 ## TODO
 - [ ] Completar a 1.0
 - [ ] Integração com IA
@@ -86,11 +82,8 @@ Atualmente não foi concluído.
 - [x] Github
 
 ## Contribuindo
-> [!TIP]
-> Este é um jeito resumido de como você pode contribuir. Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-> [!IMPORTANT]
-> Para contribuir com o desenvolvimento do aency.app, siga as etapas a seguir corretamente.
+> [!NOTE]
+> Este é um jeito resumido de como você pode contribuir. Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Para contribuir com o desenvolvimento do aency.app de uma maneira mais direta, siga as etapas a seguir corretamente.
 
 ```
 1. Bifurque este repositório.
