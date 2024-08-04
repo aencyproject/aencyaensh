@@ -24,102 +24,14 @@
 
 ## Sobre
 > [!NOTE]
-> Esse repositório contém o código fonte do aency.app. O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve.
+> Esse repositório contém o código fonte do aency.app. O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve. Além de conter o aency.app em si, ele também contem Shanny, que é o terminal padrão do aency.app. Veja sobre as teclas do Shanny e tudo mais sobre abaixo!
 
-## Pacotes
-> [!TIP]
-> Os pacotes, sistemas, extenções e bibliotecas são utilidades para o usuário. Elas servem para expandir a customização e aumentar a produtividade do aency.app.
-> [!WARNING]
-> Só lembrando que por enquanto nenhum está funcionando!
-- `@aency.app` - App principal, leia mais no "Sobre".
-- `@aency.xyz` - Pacote e coleção de utilidades adicionais externas da comunidade.
-- `@aency.net` - Sistema de hospedagem de "Mini Sites CLI" no app.
-- `@aency.any` - Pacote inicial utilizado para carregamento do AnyScript.
-- `@aency.src` - Um pacote utilizado para hospedar bibliotecas e contribuir no app.
-- `@aency.cfg` - Um pacote utilizado para armazenamento e carregamento de arquivos Asson.
-
-## TODO
-- [ ] Completar a 1.0
-- [ ] Integração com IA
-- [ ] Criador Extenções de Extenções da Comunidade
-- [ ] Package Manager
-- [ ] BASH e ZSH Mode
-- [x] Escape Mode
-- [x] Github
-
-## Instalação
-> [!WARNING]
-> Antes de começar a instalação do aency.app, verifique se seu dispositivo atende aos seguintes requisitos.
-
-- Você instalou a versão mais recente do `Python`
-- Você tem uma máquina `Windows ou Linux`. Atualmente, ainda estamos portando o app pra Linux.
-- Saber como mexer em um Terminal sem GUI.
-- Ler a nossa documentação.
-
-> **Linux**
-```
-Baixe nossa source pelo botão de download e use o app.
-```
-
-> **Windows**
-```
-Atualmente não foi concluído.
-```
-
-## Contribuindo
-> [!TIP]
-> Este é um jeito resumido de como você pode contribuir. Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-> [!IMPORTANT]
-> Para contribuir com o desenvolvimento do aency.app, siga as etapas a seguir corretamente.
-
-```
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
-```
-
-<p align="center">
-	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
-</p>
-
----
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> A curated list of command line apps.
-
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
-## Table of Contents
-
-- [Entertainment](#pacotes)
-  - [Music](#music)
-  - [Social Media](#social-media)
-  - [Video](#video)
-  - [Movies](#movies)
-  - [Games](#games)
-  - [Books](#books)
-- [Development](#development)
-  - [Text Editors](#text-editors)
-  - [Frontend Development](#frontend-development)
-  - [Mobile Development](#mobile-development)
-  - [Database](#database)
-  - [Devops](#devops)
-  - [Docker](#docker)
-  - [Release](#release)
-  - [Npm](#npm)
-  - [Boilerplate](#boilerplate)
-  - [HTTP Server](#http-server)
-  - [HTTP Client](#http-client)
-- [Productivity](#productivity)
+## Tabela de Conteúdos
+- Básico
+  - [Sobre][#sobre]
+- Instalação
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
-  - [Finance](#finance)
-  - [Presentations](#presentations)
-  - [Calendars](#calendars)
 - [Utilities](#utilities)
   - [macOS](#macos)
   - [Terminal Sharing Utilities](#terminal-sharing-utilities)
@@ -161,3 +73,69 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Emoji](#emoji-1)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
+
+## Instalação
+> [!WARNING]
+> Antes de começar a instalação do aency.app, verifique se seu dispositivo atende aos seguintes requisitos.
+
+- Você instalou a versão mais recente do `Python`
+- Você tem uma máquina `Windows ou Linux`. Atualmente, ainda estamos portando o app pra Linux.
+- Saber como mexer em um Terminal sem GUI.
+- Ler a nossa documentação.
+
+> **Linux**
+```
+Baixe nossa source pelo botão de download e use o app.
+```
+
+> **Windows**
+```
+Atualmente não foi concluído.
+```
+
+## Atalhos do Shanny
+
+| Atalho | Descrição |
+| --- | ----------- |
+| <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>C</kdb> | Copia um texto no Shanny. |
+| <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>X</kdb> | Recorta um texto no Shanny. |
+| <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>V</kdb> | Cola um texto no Shanny |
+| <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>A</kdb> | Seleciona todos os textos no Shanny. |
+| <kbd>^</kbd>+<kbd>Shfit</kdb>+<kbd>L</kdb> | Limpa a tela do Shanny. |
+| <kbd>ALT</kbd>+<kbd>F4</kdb> | Finaliza o processo do Shanny. |
+
+## Pacotes
+> [!TIP]
+> Os pacotes, sistemas, extenções e bibliotecas são utilidades para o usuário. Elas servem para expandir a customização e aumentar a produtividade do aency.app.
+> [!WARNING]
+> Só lembrando que por enquanto nenhum está funcionando!
+- `@aency.app` - App principal, leia mais no "Sobre".
+- `@aency.xyz` - Pacote e coleção de utilidades adicionais externas da comunidade.
+- `@aency.net` - Sistema de hospedagem de "Mini Sites CLI" no app.
+- `@aency.any` - Pacote inicial utilizado para carregamento do AnyScript.
+- `@aency.src` - Um pacote utilizado para hospedar bibliotecas e contribuir no app.
+- `@aency.cfg` - Um pacote utilizado para armazenamento e carregamento de arquivos Asson.
+
+## TODO
+- [ ] Completar a 1.0
+- [ ] Integração com IA
+- [ ] Criador Extenções de Extenções da Comunidade
+- [ ] Package Manager
+- [ ] BASH e ZSH Mode
+- [x] Escape Mode
+- [x] Github
+
+## Contribuindo
+> [!TIP]
+> Este é um jeito resumido de como você pode contribuir. Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+> [!IMPORTANT]
+> Para contribuir com o desenvolvimento do aency.app, siga as etapas a seguir corretamente.
+
+```
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
+```
