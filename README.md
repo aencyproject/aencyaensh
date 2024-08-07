@@ -92,3 +92,8 @@ Atualmente não foi concluído.
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
 ```
+
+## Contribuidores
+<a href="https://github.com/aencyco/aencyapp/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=aenyco/aencyapp"/>
+</a>
