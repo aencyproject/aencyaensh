@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://www.aency.xyz/cdn/img/aency_banner_rc.png" width="546" alt="discord.js" /></a>
+		<a href="https://github.com/aencyco/aencyapp/"><img src="https://www.aencyold.netlify.app/cdn/img/aency_banner_rc.png" width="546" alt="aency_banner" /></a>
 	</p>
 	<br />
 	<p>
