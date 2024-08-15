@@ -21,6 +21,7 @@
 		<a href="https://dsc.gg/aency" ><img src="https://img.shields.io/badge/Discord-Aency-blue?labelColor=gray&style=plastic&logoWidth=0" /></a>
 	</p>
 </div>
+[Sobre](#sobre) - [TODO](#todo) - [instalação](#instalação) - [requisitos](#requisitos)
 
 ## Sobre
 > [!NOTE]
@@ -78,8 +79,6 @@ Atualmente não foi concluído.
 - [ ] Criador Extenções de Extenções da Comunidade
 - [ ] Package Manager
 - [ ] BASH e ZSH Mode
-- [x] Escape Mode
-- [x] Github
 
 ## Contribuindo
 > [!NOTE]
