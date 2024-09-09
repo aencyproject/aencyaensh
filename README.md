@@ -34,10 +34,10 @@
 - Instalação
   - [Instalação](#instalação)
   - [Requisitos](#requisitos)
-- Shanny (Terminal)
-  - [Sobre](#sobre%24o%24shanny)
-  - [Atalhos](#atalhos%24do%24shanny)
-- [Contribuição](#contribuindo)
+# - Shanny (Terminal)
+# - [Sobre](#sobre%24o%24shanny)
+# - [Atalhos](#atalhos%24do%24shanny)
+# - [Contribuição](#contribuindo)
 
 ## Instalação
 > [!WARNING]
@@ -58,25 +58,25 @@ Baixe nossa source pelo botão de download e use o app.
 ```
 Atualmente não foi concluído.
 ```
-# Sobre o Shanny
-> [!TIP]
-> a
+# # Sobre o Shanny
+# > [!TIP]
+# > 
 
-## Atalhos do Shanny
-
-| Atalho | Descrição |
-| --- | ----------- |
-| <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>C</kdb> | Copia um texto no Shanny. |
-| <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>X</kdb> | Recorta um texto no Shanny. |
-| <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>V</kdb> | Cola um texto no Shanny |
-| <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>A</kdb> | Seleciona todos os textos no Shanny. |
-| <kbd>^</kbd>+<kbd>Shfit</kdb>+<kbd>L</kdb> | Limpa a tela do Shanny. |
-| <kbd>ALT</kbd>+<kbd>F4</kdb> | Finaliza o processo do Shanny. |
+# ## Atalhos do Shanny
+#
+# | Atalho | Descrição |
+# | --- | ----------- |
+# | <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>C</kdb> | Copia um texto no Shanny. |
+# | <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>X</kdb> | Recorta um texto no Shanny. |
+# | <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>V</kdb> | Cola um texto no Shanny |
+# | <kbd>^</kbd>+<kbd>Shift</kdb>+<kbd>A</kdb> | Seleciona todos os textos no Shanny. |
+# | <kbd>^</kbd>+<kbd>Shfit</kdb>+<kbd>L</kdb> | Limpa a tela do Shanny. |
+# | <kbd>ALT</kbd>+<kbd>F4</kdb> | Finaliza o processo do Shanny. |
 
 ## TODO
-- [ ] Completar a 1.0
-- [ ] Integração com IA
-- [ ] Criador Extenções de Extenções da Comunidade
+- [x] Sistema de Comandos
+- [ ] Comandos Básicos Funcionais
+- [ ] Integração com IA (Gemini)
 - [ ] Package Manager
 - [ ] BASH e ZSH Mode
 
