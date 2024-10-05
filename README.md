@@ -5,27 +5,11 @@
 	</p>
 	<br />
 	<p>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Versão-1.0-red?labelColor=gray&style=plastic&logoWidth=0" alt="Versão"/></a>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Distribuição-Estável-red?labelColor=gray&style=plastic&logoWidth=0" alt="Distribuição"/></a>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Licensa-Pública-red?labelColor=gray&style=plastic&logoWidth=0" alt="Licensa"/></a>
-		<br>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Desde-2022-orange?labelColor=gray&style=plastic&logoWidth=0" alt="Desde" /></a>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Criadora-Aency-orange?labelColor=gray&style=plastic&logoWidth=0" alt="Criadora"/></a>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Diretor-Gabriel-orange?labelColor=gray&style=plastic&logoWidth=0" alt="Diretor"/></a>
-		<br>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Projetos-9-green?labelColor=gray&style=plastic&logoWidth=0" alt="Projetos"/></a>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Extenções-0-green?labelColor=gray&style=plastic&logoWidth=0" alt="Extenções"/></a>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Pacotes-0-green?labelColor=gray&style=plastic&logoWidth=0" alt="Pacotes"/></a>
-		<a href="https://github.com/aencyco/aencyapp/"><img src="https://img.shields.io/badge/Bibliotecas-0-green?labelColor=gray&style=plastic&logoWidth=0" alt="Bibliotecas"/></a>
-		<br>
-		<a href="https://dsc.gg/aency" ><img src="https://img.shields.io/badge/Discord-Aency-blue?labelColor=gray&style=plastic&logoWidth=0" /></a>
-	</p>
 </div>
-[Sobre](#sobre) - [TODO](#todo) - [instalação](#instalação) - [requisitos](#requisitos)
 
 ## Sobre
 > [!NOTE]
-> Esse repositório contém o código fonte do aency.app. O projeto aency.app é uma ferramenta CLI de utilidades para usuários de Linux aproveitarem do sistema de uma maneira simples, antiga e funcional. Sem a necessidade de um monte de espaço ocupado pelo programa, pelo simples fato dele ser super leve. Além de conter o aency.app em si, ele também contem Shanny, que é o terminal padrão do aency.app. Veja sobre as teclas do Shanny e tudo mais sobre abaixo!
+> Esse repositório contém o código fonte do Aensh. O projeto Aensh é um shell para iniciantes no mundo linux ou terminal, contendo utilidades para os usuários aproveitarem do sistema de uma maneira simples, moderna e funcional. Softwares e ferramentas podem ser muito pesados e exigirem muitos recursos de sua máquina, por isso existem os tão famosos apps TUI/CLI.
 
 ## Tabela de Conteúdos
 - Básico
@@ -34,35 +18,23 @@
 - Instalação
   - [Instalação](#instalação)
   - [Requisitos](#requisitos)
-<!-- - Shanny (Terminal)
-- [Sobre](#sobre%24o%24shanny)
-- [Atalhos](#atalhos%24do%24shanny)
-- [Contribuição](#contribuindo) -->
 
 ## Instalação
 > [!WARNING]
 > Antes de começar a instalação do aency.app, verifique se seu dispositivo atende aos seguintes requisitos.
 
 ### Requisitos
-- Você instalou a versão mais recente do `Python`
-- Você tem uma máquina `Windows ou Linux`. Atualmente, ainda estamos portando o app pra Linux.
-- Saber como mexer em um Terminal sem GUI.
-- Ler a nossa documentação.
+- Você tem uma máquina com `Windows ou Linux`.
+- Ter a versão mais recente do `Rust`
+- Ter a `Fira Code Nerd Font` instalada em seu sistema.
+- Ter o terminal `Kitty` instalado em seu sistema.
 
-> **Linux**
+> **Instalação Universal**
 ```
-Baixe nossa source pelo botão de download e use o app.
-```
-
-> **Windows**
-```
-Atualmente não foi concluído.
+Baixe nossa source pelo botão de releases e use o app.
 ```
 
-<!-- # Sobre o Shanny
-> [!TIP]
-> 
-
+<!--
 ## Atalhos do Shanny
 
 | Atalho | Descrição |
@@ -75,11 +47,12 @@ Atualmente não foi concluído.
 | <kbd>ALT</kbd>+<kbd>F4</kdb> | Finaliza o processo do Shanny. | -->
 
 ## TODO
+- [x] Sistema de Prompt Customizado
 - [x] Sistema de Comandos
+- [x] Sistema de Comandos (Zsh, Bash, Fish)
 - [ ] Comandos Básicos Funcionais
-- [ ] Integração com IA (Gemini)
-- [ ] Package Manager
-- [ ] BASH e ZSH Mode
+- [ ] Integração com IA (Gemini & LLama 3)
+- [ ] Neopkg (Package Manager)
 
 ## Contribuindo
 > [!NOTE]
