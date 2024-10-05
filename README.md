@@ -56,7 +56,10 @@ Baixe nossa source pelo botão de releases e use o app.
 
 ## Contribuindo
 > [!NOTE]
-> Este é um jeito resumido de como você pode contribuir. Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Para contribuir com o desenvolvimento do aency.app de uma maneira mais direta, siga as etapas a seguir corretamente.
+> Este é um jeito resumido de como você pode contribuir. Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Para contribuir com o desenvolvimento do Aensh de uma maneira mais direta, siga as etapas a seguir corretamente.
+
+> [!TIP]
+> Você também pode abrir um issue para fazer sugestões, reportar bugs, apresentar opiniões e etc!
 
 ```
 1. Bifurque este repositório.
