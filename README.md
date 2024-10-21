@@ -25,8 +25,8 @@
 
 ### Requisitos
 - Você tem uma máquina com `Windows ou Linux`.
-- Ter a versão mais recente do `Rust`
-- Ter a `Fira Code Nerd Font` instalada em seu sistema.
+- Ter o `C++17` pra cima.
+- Ter a `FiraCode Nerd Font` instalada em seu sistema.
 - Ter o terminal `Kitty` instalado em seu sistema.
 
 > **Instalação Universal**
@@ -46,11 +46,12 @@ Baixe nossa source pelo botão de releases e use o app.
 | <kbd>^</kbd>+<kbd>Shfit</kdb>+<kbd>L</kdb> | Limpa a tela do Shanny. |
 | <kbd>ALT</kbd>+<kbd>F4</kdb> | Finaliza o processo do Shanny. | -->
 
-## TODO
-- [x] Sistema de Prompt Customizado
-- [x] Sistema de Comandos
-- [x] Sistema de Comandos (Zsh, Bash, Fish)
-- [ ] Comandos Básicos Funcionais
+## TODO (0.7)
+- [x] Comandos Básicos Funcionais
+- [x] Cores na Digitação de Texto
+- [x] Integração TAB + FZF
+- [x] Sistema de Histórico
+- [x] Sistema de Aliases
 - [ ] Integração com IA (Gemini & LLama 3)
 - [ ] Neopkg (Package Manager)
 
