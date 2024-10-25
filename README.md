@@ -30,8 +30,9 @@
 - Ter o terminal `Kitty` instalado em seu sistema.
 
 > **Instalação Universal**
+> Baixe o aencyaensh na sua pasta /home/ e execute o seguinte comando:
 ```
-Baixe nossa source pelo botão de releases e use o app.
+
 ```
 
 <!--
